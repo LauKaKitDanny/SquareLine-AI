@@ -1,0 +1,21 @@
+html {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+}
+
+#root {
+  height: 100%;
+  margin: 10px 10px 10px 10px
+}
+
+.App {
+  height: 100%;
+  margin: 10px 10px 10px 10px;
+  display: flex;
+  flex: 1 0 auto;
+  align-items: center;
+  justify-content: center;
+}
