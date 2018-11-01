@@ -9,7 +9,8 @@ The main rule of the game is using same color of coming line to "hit" lines.
 
 ## Getting Started
 
-Tap "Start Training" to see how it work.
+For Github page, tap "Start Training" to see how it work.<br/>
+For node.js, enter "npm start" in terminal.
 
 ## Running the tests
 
